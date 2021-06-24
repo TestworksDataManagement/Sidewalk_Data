@@ -10,17 +10,12 @@ Dataset annotating sidewalks condition information with Polygon Segmentation and
 
 Specification
 -------------------
-|Data size|670,000 images  
-(Bounding Box 350,000 / Polygon Segmentation 100,000 / Surface Masking 50,000 / Depth Prediction 170,000)|
+|Data size|670,000 images  (Bounding Box 350,000 / Polygon Segmentation 100,000 / Surface Masking 50,000 / Depth Prediction 170,000)|
 |:---|:---|
 |Collecting method|Crowd Sourcing, take a picture of spot|
-|Device|Mobile phone (1920 * 1080 px)  
-ZED Stereo camera(1920 * 1080 px)|
+|Device|Mobile phone (1920 * 1080 px)  ZED Stereo camera(1920 * 1080 px)|
 |Data format|jpg (image) / png (mask image) / xml (annotation file)|
-|Data diversity|Region(seoul, daejeon, sejong, gimpo, goyang, busan)  
-Road(sidewalk, side road, crosswalk)  
-Weather(sunny, cloudy, rain)  
-Time(day, night)|
+|Data diversity|Region(seoul, daejeon, sejong, gimpo, goyang, busan)  Road(sidewalk, side road, crosswalk)  Weather(sunny, cloudy, rain)  Time(day, night)|
 
 Examples
 ---------------
