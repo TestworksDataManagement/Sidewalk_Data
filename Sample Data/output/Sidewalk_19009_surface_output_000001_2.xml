@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>15</id>
+      <name>Sidewalk_19009_surface_output_000001_2</name>
+      <size>120</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-09-26 05:39:45.744453+03:00</created>
+      <updated>2019-10-10 11:37:15.776325+03:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter>0</frame_filter>
+      <labels>
+        <label>
+          <name>caution_zone</name>
+          <attributes>
+            <attribute>
+              <name>attribute</name>
+              <mutable>False</mutable>
+              <input_type>radio</input_type>
+              <default_value>stairs</default_value>
+              <values>stairs
+manhole
+tree_zone
+grating
+repair_zone</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>bike_lane</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>alley</name>
+          <attributes>
+            <attribute>
+              <name>attribute</name>
+              <mutable>False</mutable>
+              <input_type>radio</input_type>
+              <default_value>normal</default_value>
+              <values>normal
+crosswalk
+speed_bump
+damaged</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>roadway</name>
+          <attributes>
+            <attribute>
+              <name>attribute</name>
+              <mutable>False</mutable>
+              <input_type>radio</input_type>
+              <default_value>normal</default_value>
+              <values>normal
+crosswalk</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>braille_guide_blocks</name>
+          <attributes>
+            <attribute>
+              <name>attribute</name>
+              <mutable>False</mutable>
+              <input_type>radio</input_type>
+              <default_value>normal</default_value>
+              <values>normal
+damaged</values>
+            </attribute>
+          </attributes>
+        </label>
+        <label>
+          <name>sidewalk</name>
+          <attributes>
+            <attribute>
+              <name>attribute</name>
+              <mutable>False</mutable>
+              <input_type>radio</input_type>
+              <default_value>blocks</default_value>
+              <values>blocks
+cement
+urethane
+asphalt
+soil_stone
+damaged
+other</values>
+            </attribute>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>12</id>
+          <start>0</start>
+          <stop>119</stop>
+          <url>http://58.229.208.156:8080/?id=12</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>nia_mask</username>
+        <email>ghjo@testworks.co.kr</email>
+      </owner>
+    </task>
+    <dumped>2019-10-29 21:00:24.595395+03:00</dumped>
+  </meta>
+  <image id="0" name="Sidewalk_19009_surface_raw_000001_2.jpg" width="1920" height="1080">
+    <polygon label="alley" occluded="0" points="1267.80,0.00;1464.80,434.60;1790.20,1080.00;0.00,1080.00;0.00,308.32;110.55,185.95;126.30,168.20;175.70,206.90;225.40,208.10;274.50,176.20;287.90,135.30;290.90,41.90;286.30,0.00;576.35,0.00" z_order="6">
+      <attribute name="attribute">normal</attribute>
+    </polygon>
+  </image>
+  <image id="1" name="Sidewalk_19009_surface_raw_000002_2.jpg" width="1920" height="1080">
+    <polygon label="roadway" occluded="0" points="1920.00,0.00;1202.90,0.00;1320.30,123.60;1470.50,280.50;1784.20,610.00;1920.00,765.23" z_order="2">
+      <attribute name="attribute">normal</attribute>
+    </polygon>
+    <polygon label="sidewalk" occluded="0" points="1143.80,0.00;1137.60,44.80;1074.00,45.30;1083.17,87.54;1246.70,84.90;1217.30,47.80;1192.80,46.80;1193.50,0.00;1202.20,0.00;1508.30,321.20;1920.00,760.80;1920.00,1080.00;1245.00,1080.00;1153.80,624.20;1037.20,0.00" z_order="6">
+      <attribute name="attribute">blocks</attribute>
+    </polygon>
+    <polygon label="bike_lane" occluded="0" points="1036.33,0.59;1072.67,197.97;1108.81,391.52;1189.56,826.94;1244.60,1080.00;594.60,1078.90;0.00,1080.00;352.50,613.00;651.00,230.60;809.20,1.60" z_order="4">
+    </polygon>
+    <polygon label="caution_zone" occluded="0" points="1137.30,44.77;1135.79,58.78;1147.14,65.97;1169.86,65.97;1194.47,64.08;1192.20,47.80;1216.80,47.42;1247.09,85.66;1084.68,86.41;1074.84,46.28" z_order="9">
+      <attribute name="attribute">tree_zone</attribute>
+    </polygon>
+  </image>
+</annotations>

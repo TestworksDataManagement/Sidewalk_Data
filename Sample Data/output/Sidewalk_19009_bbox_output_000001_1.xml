@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>4939</id>
+      <name>Sidewalk_19009_bbox_output_000001_1</name>
+      <size>189</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <flipped>False</flipped>
+      <created>2019-11-22 02:55:01.902094+03:00</created>
+      <updated>2019-11-22 21:32:03.458664+03:00</updated>
+      <start_frame>0</start_frame>
+      <stop_frame>0</stop_frame>
+      <frame_filter>0</frame_filter>
+      <labels>
+        <label>
+          <name>wheelchair</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>truck</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>tree_trunk</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>traffic_sign</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>traffic_light</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>table</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>stroller</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>stop</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>scooter</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>potted_plant</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>pole</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>person</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>parking_meter</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>movable_signage</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>motorcycle</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>kiosk</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>fire_hydrant</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>dog</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>chair</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>cat</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>carrier</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>car</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bus</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bollard</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bicycle</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>bench</name>
+          <attributes>
+          </attributes>
+        </label>
+        <label>
+          <name>barricade</name>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+      <segments>
+        <segment>
+          <id>4738</id>
+          <start>0</start>
+          <stop>188</stop>
+          <url>http://112.169.146.227:8080/?id=4738</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>aiadmin</username>
+        <email>aiadmin@testworks.co.kr</email>
+      </owner>
+    </task>
+    <dumped>2019-11-29 03:43:56.135171+03:00</dumped>
+  </meta>
+  <image id="0" name="Sidewalk_19009_bbox_raw_000001_1.jpg" width="1920" height="1080">
+    <box label="tree_trunk" occluded="0" xtl="1272.39" ytl="451.90" xbr="1331.40" ybr="670.79" z_order="0">
+    </box>
+    <box label="movable_signage" occluded="1" xtl="1082.78" ytl="356.68" xbr="1147.89" ybr="491.46" z_order="0">
+    </box>
+    <box label="tree_trunk" occluded="0" xtl="1157.03" ytl="277.90" xbr="1210.30" ybr="565.71" z_order="0">
+    </box>
+    <box label="tree_trunk" occluded="0" xtl="1094.21" ytl="331.56" xbr="1131.90" ybr="493.75" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1672.90" ytl="382.30" xbr="1728.00" ybr="416.00" z_order="0">
+    </box>
+    <box label="traffic_sign" occluded="0" xtl="1851.90" ytl="346.60" xbr="1886.20" ybr="380.31" z_order="0">
+    </box>
+    <box label="car" occluded="1" xtl="1768.60" ytl="423.00" xbr="1914.00" ybr="499.00" z_order="0">
+    </box>
+    <box label="car" occluded="1" xtl="1634.90" ytl="499.70" xbr="1920.00" ybr="857.50" z_order="0">
+    </box>
+    <box label="car" occluded="1" xtl="1692.20" ytl="411.90" xbr="1814.00" ybr="478.00" z_order="0">
+    </box>
+    <box label="movable_signage" occluded="1" xtl="1206.14" ytl="303.00" xbr="1289.52" ybr="542.86" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Sidewalk_19009_bbox_raw_000002_1.jpg" width="1920" height="1080">
+    <box label="car" occluded="1" xtl="1199.10" ytl="467.00" xbr="1400.90" ybr="650.00" z_order="0">
+    </box>
+    <box label="potted_plant" occluded="0" xtl="387.80" ytl="762.60" xbr="511.40" ybr="945.00" z_order="0">
+    </box>
+    <box label="potted_plant" occluded="1" xtl="198.18" ytl="674.87" xbr="350.80" ybr="1080.00" z_order="0">
+    </box>
+    <box label="chair" occluded="0" xtl="1020.00" ytl="514.40" xbr="1088.20" ybr="644.00" z_order="0">
+    </box>
+    <box label="traffic_light" occluded="0" xtl="1541.70" ytl="172.13" xbr="1615.30" ybr="198.00" z_order="0">
+    </box>
+    <box label="traffic_light" occluded="0" xtl="1663.20" ytl="308.00" xbr="1700.80" ybr="319.77" z_order="0">
+    </box>
+    <box label="traffic_light" occluded="0" xtl="1565.40" ytl="309.83" xbr="1601.80" ybr="321.68" z_order="0">
+    </box>
+    <box label="traffic_sign" occluded="0" xtl="1470.97" ytl="142.43" xbr="1532.25" ybr="196.13" z_order="1">
+    </box>
+    <box label="pole" occluded="1" xtl="1332.05" ytl="0.00" xbr="1522.27" ybr="1080.00" z_order="3">
+    </box>
+    <box label="tree_trunk" occluded="0" xtl="1094.57" ytl="417.10" xbr="1141.94" ybr="647.33" z_order="0">
+    </box>
+    <box label="potted_plant" occluded="1" xtl="486.07" ytl="782.51" xbr="558.40" ybr="887.90" z_order="0">
+    </box>
+    <box label="car" occluded="0" xtl="1687.00" ytl="446.00" xbr="1754.00" ybr="490.00" z_order="0">
+    </box>
+    <box label="potted_plant" occluded="1" xtl="475.17" ytl="712.45" xbr="590.90" ybr="859.30" z_order="0">
+    </box>
+    <box label="car" occluded="1" xtl="1598.30" ytl="539.14" xbr="1920.00" ybr="1073.14" z_order="0">
+    </box>
+    <box label="car" occluded="1" xtl="1727.60" ytl="447.39" xbr="1775.30" ybr="486.10" z_order="0">
+    </box>
+    <box label="potted_plant" occluded="1" xtl="0.00" ytl="902.56" xbr="136.80" ybr="1080.00" z_order="0">
+    </box>
+    <box label="tree_trunk" occluded="0" xtl="1136.70" ytl="526.30" xbr="1215.60" ybr="830.22" z_order="0">
+    </box>
+    <box label="potted_plant" occluded="1" xtl="113.32" ytl="808.66" xbr="297.50" ybr="1080.00" z_order="0">
+    </box>
+  </image>
+</annotations>
