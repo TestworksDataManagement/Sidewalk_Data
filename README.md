@@ -12,11 +12,7 @@ Specification
 -------------------
 |Data size|670,000 images<br>(Bounding Box 350,000 / Polygon Segmentation 100,000 / Surface Masking 50,000 / Depth Prediction 170,000)|
 |:---|:---|
-|Depth Prediction config| Depth Prediction 1set = 8 images + 1 conf file 8 types of images  
-* Raw_Left , Raw_Right 
-* Crop_Left , Crop_Right
-* Confidence , Confidence_save 
-* Disparity , Disparity16|
+|Depth Prediction config| Depth Prediction 1set = 8 images + 1 conf file 8 types of images  * Raw_Left , Raw_Right  * Crop_Left , Crop_Right *  Confidence , Confidence_save  * Disparity , Disparity16|
 |Collecting method|Crowd Sourcing, take a picture of spot|
 |Device|Mobile phone (1920 * 1080 px)<br>ZED Stereo camera(1920 * 1080 px)|
 |Data format|jpg (image) / png (mask image, depth image) / xml (annotation file) / conf (depth calibration file)|
