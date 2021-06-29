@@ -25,7 +25,9 @@ Examples
 |Polygon Segmentation| <img src="Sample Data\sidewalk_image2.png" width="450px"></img> |
 |Surface Masking| <img src="Sample Data\sidewalk_image3.png" width="450px"></img><br><img src="Sample Data\sidewalk_image4.png" width="450px"></img> |
 |Depth Prediction| <img src="Sample Data\sidewalk_image5.png" width="450px"></img><br><img src="Sample Data\sidewalk_image6.png" width="450px"></img> |
-|Sample Data| 
+
+Sample Data
+-----------------
 * Bounding Box 189 images and their annotation file  
 * Polygon Segmentation 273 images and their annotation file  
 * Surface Masking 119 images, 119 masking image and annotation file
