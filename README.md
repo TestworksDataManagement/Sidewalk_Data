@@ -33,7 +33,7 @@ Examples
 
 License
 ---------------
-* [License policy documentation](https://docs.google.com/viewer?url=https://github.com/TestworksDataManagement/Sidewalk_Data/blob/main/TestWorks\_Dataset\_License.pdf?raw=True) for the Testworks Dataset
+* [License policy documentation](https://docs.google.com/viewer?url=https://github.com/TestworksDataManagement/Sidewalk_Data/blob/main/TestWorks-Dataset-License.pdf?raw=True) for the Testworks Dataset
 
 Contact TestWorks
 -----------------
